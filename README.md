@@ -140,7 +140,7 @@ For retention use cases, recall is often the priority, since missing a churner i
 ```
 Telecom-Customer-Churn-Prediction/
 │
-├── Telecom_Churn_Prediction.ipynb
+├── Telecom_Customer_Churn_Prediction.ipynb
 │   └── Full analysis: EDA, preprocessing, modeling, evaluation
 │
 ├── churn.csv
